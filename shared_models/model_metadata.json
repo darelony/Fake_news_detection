@@ -1,0 +1,9 @@
+{
+  "version": "2.0",
+  "trained_at": "2026-02-16T12:27:00",
+  "accuracy": 0.9898,
+  "num_samples": 38565,
+  "num_fake": 17395,
+  "num_true": 21170,
+  "model_type": "TF-IDF + Logistic Regression"
+}
